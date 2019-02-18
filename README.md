@@ -1,4 +1,4 @@
 # RailCore
 
-*Configuration files for the RailCore II 300ZL
+*Configuration files for the RailCore II 300ZL*
 
