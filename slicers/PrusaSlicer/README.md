@@ -19,7 +19,8 @@ The profile has two things to note:
 * Generated with PrusaSlicer v2.0.0
 * Calls True Bed Leveling (G32) 3 times instead of twice
 * Increased first stage heatup from 130C to 150C
-* Switched to using relative E-distances
+* Tweaked fan settings
++ Other minor changes
 
 
 # Notes for Slic3r PE config updated March 24, 2019
