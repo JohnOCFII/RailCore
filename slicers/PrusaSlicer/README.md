@@ -20,7 +20,7 @@ The profile has two things to note:
 * Calls True Bed Leveling (G32) 3 times instead of twice
 * Increased first stage heatup from 130C to 150C
 * Tweaked fan settings
-+ Other minor changes
+* Other minor changes
 
 
 # Notes for Slic3r PE config updated March 24, 2019
