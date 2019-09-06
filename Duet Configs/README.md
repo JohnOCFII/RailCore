@@ -3,7 +3,7 @@
 *This directory contains the key DuetEthernet configuration files*
 
 Update Notes - August 12th 2019
-- Uploaded current configuration files which have been modified for with different settings for motor current, acceleration, and jerk The August 12th files were used with Duet RRF firmware 2.03.
+- Uploaded current configuration files which have been modified with different settings for motor current, acceleration, and jerk The August 12th files were used with Duet RRF firmware 2.03.
 - Please *review files carefully* before using in your environment.  I've got non-standard commands for activating lights, etc.  It is likely your G31 will not be the same as mine.  Please find your own Z-height following the standard RailCore Assembly and Commissioning document.
 
 Update Notes - July 5th 2019
