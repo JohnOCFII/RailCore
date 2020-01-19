@@ -9,6 +9,7 @@
 - As always, please review carefully!  My RailCore 300ZL is a self-sourced machine.  It is currently configured with:
   * `TR8*4 leadscrews`
   * `Duet 2 Ethernet (not WiFi) and Duex5`
+  * `Keenevo bed thermistor is connected and active`
   * `E3D-V6 hot-end and Bondtech BMG with LDO 0.9 pancake stepper motors`
   * `SteppersOnline 0.9 stepper motors for X, Y, and Z`
   * `Two separately controlled 12V LED light strips`
