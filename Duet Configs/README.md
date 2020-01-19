@@ -1,6 +1,6 @@
 # RailCore 300ZL DuetEthernet configuration files
 
-*This directory contains the key DuetEthernet configuration files*
+*This directory tree contains the key DuetEthernet configuration files*
 
 **Update Notes - January 18 2020**
 - Reorganized folder structure.  Separate older versions are listed under the `Archive` directory tree.
