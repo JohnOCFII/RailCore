@@ -1,0 +1,1 @@
+M280 P7 S120 ; Send PWM channel 7 the S10 (angle) command
