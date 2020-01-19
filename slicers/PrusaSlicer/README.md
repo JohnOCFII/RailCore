@@ -13,6 +13,12 @@ The profile has two things to note:
 
 - There is a conditional in the filament config that adds a Pressure Advance statement `M572 D0 S0.07` to the GCODE if the configuration is used on a RAILCORE as seen by the printer definition.
 
+# Notes for PrusaSlicer configuration updated December 24, 2019
+
+* Generated with PrusaSlicer v2.1.1+
+* Minor changes to support settings (only in 0.20 profiles, as I recall)
+
+
 # Notes for PrusaSlicer configuration updated July 5, 2019
 
 * Changed comments on GitHub to refer to PrusaSlicer
