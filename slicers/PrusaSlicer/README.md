@@ -19,7 +19,7 @@ The profile has two things to note:
 * Generated with PrusaSlicer v2.2.0+
 * Tramming is performed two times (down from three) and a Home Z is performed after tramming
 * Various small changes throughout configs - Highlighted changed include:
-* * Changed bottom layers from 4 to 3 in 0.20mm Normal 300ZL profile
+  * Changed bottom layers from 4 to 3 in 0.20mm Normal 300ZL profile
 * Now what?
 
 # Notes for PrusaSlicer configuration updated December 24, 2019
