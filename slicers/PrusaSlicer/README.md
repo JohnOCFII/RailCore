@@ -17,10 +17,24 @@ The profile has two things to note:
 # Notes for PrusaSlicer configuration updated October 12, 2020
 
 * Generated with PrusaSlicer v2.2.0+
+* Included Railcore Bed texture and image courtesy of @veng1
+  * Unzip `RCBedandTexture.zip`
+  * Navigate to `Printer Settings` --> `General` --> `Bed Shape - Set...`
+    * In the texture area click `Load...` -- chose the file `Overlay_no_numbers.svg`
+    * In the Model area click `Load...` -- choose the file `railcore.stl`
+    * Select `OK`
+  * Re-save the modified `Railcore 300ZL` Printer Settings
 * Tramming is performed two times (down from three) and a Home Z is performed after tramming
+* Bed shape increased from 290x290 to 298x298
+* Maximum print height reduced from 340 to 320 (revise as needed for your machine)
+* Tweaked retraction settings (mainly increased from 0.6 to 0.8)
+* Reduced retraction speed from 60 to 45 mm/sec
 * Various small changes throughout configs - Highlighted changed include:
   * Changed bottom layers from 4 to 3 in 0.20mm Normal 300ZL profile
-* Now what?
+  * Perimeter speed increased from 80 to 100 mm/sec
+  * Travel speed increased from 150 to 250 mm/sec
+  * Various similar changes in other (but not all) print profiles - as always, tweak as desired
+* Various changes to filament profiles - also take note that as of PrusaSlicer 2.2 there are filament override settings available for many machine settings
 
 # Notes for PrusaSlicer configuration updated December 24, 2019
 
