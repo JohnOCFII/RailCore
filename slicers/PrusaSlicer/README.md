@@ -2,6 +2,8 @@
 
 The included PrusaSlicer config file creates a configuration suitable for the RailCore 300ZL/300ZLT.  Use the `File --> Import Config Bundle` menu option to import this configuration.  You will likely need to rename and save the imported configuration files in the Printer, Filament, and Print Settings areas.
 
+I recommend using the `Expert` Setting, which is available in the upper-right corner of the PrusaSlicer window.  The `Simple` and `Advanced` options hide some settings.  
+
 The profile has two things to note:
 
 - The start GCODE includes a two-stage startup.  
