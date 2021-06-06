@@ -15,6 +15,12 @@ I recommend using the `Expert` setting, which is available in the upper-right co
 
 - There is a conditional in the filament config that adds a Pressure Advance statement `M572 D0 S0.07` to the GCODE if the configuration is used on a RAILCORE as seen by the printer definition.
 
+# Notes for PrusaSlicer configuration updated June 5, 2021
+
+* Generated with PrusaSlicer v2.3.1+
+* Added additional nozzle profiles for 0.6mm users
+* Enabled 'Verbose G-code" and "Label objects" accross all profiles to aid "Cancel Object" functionality
+
 # Notes for PrusaSlicer configuration updated May 20, 2021
 
 * Generated with PrusaSlicer v2.3.1+
