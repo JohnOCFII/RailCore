@@ -2,6 +2,10 @@
 
 *This directory tree contains the key DuetEthernet configuration files*
 
+
+**Update Notes - July 21 2021**
+- Reorganized folder structure. Split into two hierarchies, one for RepRap Firmware (RRF) configurations and one for Klipper configurations.
+
 **Update Notes - January 18 2020**
 - Reorganized folder structure.  Separate older versions are listed under the `Archive` directory tree.
 - Uploaded my initial RepRap Firmware 3.0 configuration and macro files under the `Current` directory tree.
