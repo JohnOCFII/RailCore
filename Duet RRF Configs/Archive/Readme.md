@@ -1,1 +1,1 @@
-Archive of Railcore Klipper config files
+Archive of Railcore RepRap Firmware config files
