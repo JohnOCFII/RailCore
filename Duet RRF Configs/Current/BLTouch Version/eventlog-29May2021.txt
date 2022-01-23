@@ -1,0 +1,1083 @@
+power up + 00:00:00 Event logging started
+2021-03-17 15:54:30 [warn] Error: Cannot delete file 0:/sys/eventlog.txt because it is open
+2021-03-17 15:55:38 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-17 17:29:59 [warn] Date and time set at power up + 00:00:15
+2021-03-17 17:29:59 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-17 17:31:32 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostTest6_0.2mm_PLA_RC.gcode
+2021-03-17 17:34:41 [warn] Leadscrew adjustments made: 0.034 0.059 0.044, points used 4, (mean, deviation) before (0.045, 0.024) after (0.000, 0.022)
+2021-03-17 17:35:23 [warn] Leadscrew adjustments made: 0.028 0.017 -0.003, points used 4, (mean, deviation) before (0.009, 0.025) after (0.000, 0.023)
+2021-03-17 17:47:12 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostTest6_0.2mm_PLA_RC.gcode, print time was 0h 15m
+2021-03-17 18:49:57 [warn] HTTP client 192.168.55.103 login succeeded
+2021-03-17 18:50:20 [warn] Error: Cannot read file, error code 2
+2021-03-17 18:50:20 [warn] Warning: Failed to read header of G-Code file "0:/gcodes/Models/BulbStabilizer v5_x10BK_0.2mm_PETG_RC.gcode"
+2021-03-17 18:50:47 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostTest7_0.2mm_PLA_RC.gcode
+2021-03-17 18:53:42 [warn] Leadscrew adjustments made: 0.044 0.049 0.069, points used 4, (mean, deviation) before (0.057, 0.025) after (0.000, 0.023)
+2021-03-17 18:54:24 [warn] Leadscrew adjustments made: 0.022 0.009 -0.007, points used 4, (mean, deviation) before (0.004, 0.025) after (-0.000, 0.023)
+2021-03-17 19:06:13 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostTest7_0.2mm_PLA_RC.gcode, print time was 0h 15m
+2021-03-17 19:17:40 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 02:02:10 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 10:38:42 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest1_x2_0.2mm_PLA_RC.gcode
+2021-03-18 10:40:27 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 10:40:58 [warn] Leadscrew adjustments made: 0.021 0.045 0.048, points used 4, (mean, deviation) before (0.040, 0.024) after (-0.000, 0.022)
+2021-03-18 10:41:40 [warn] Leadscrew adjustments made: 0.024 0.016 -0.005, points used 4, (mean, deviation) before (0.007, 0.025) after (-0.000, 0.023)
+2021-03-18 11:09:52 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest1_x2_0.2mm_PLA_RC.gcode, print time was 0h 31m
+2021-03-18 14:16:58 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 14:17:13 [warn] Date and time set at power up + 00:00:15
+2021-03-18 14:17:13 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 15:11:53 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 15:13:00 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-18 16:42:39 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 16:44:35 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 19:15:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-18 20:13:14 [warn] HTTP client 192.168.88.135 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:06:20 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-19 08:30:10 [warn] Date and time set at power up + 00:06:20
+2021-03-19 08:30:12 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-19 09:23:22 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest2_0.2mm_PLA_RC.gcode
+2021-03-19 09:26:06 [warn] Leadscrew adjustments made: 0.004 0.023 0.050, points used 4, (mean, deviation) before (0.031, 0.029) after (0.000, 0.025)
+2021-03-19 09:26:48 [warn] Leadscrew adjustments made: 0.018 0.013 -0.005, points used 4, (mean, deviation) before (0.005, 0.023) after (0.000, 0.022)
+2021-03-19 09:58:48 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest2_0.2mm_PLA_RC.gcode, print time was 0h 35m
+2021-03-19 11:23:43 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest4_0.2mm_PLA_RC.gcode
+2021-03-19 11:27:26 [warn] Leadscrew adjustments made: 0.044 0.059 0.041, points used 4, (mean, deviation) before (0.046, 0.022) after (0.000, 0.020)
+2021-03-19 11:28:08 [warn] Leadscrew adjustments made: 0.028 0.016 -0.005, points used 4, (mean, deviation) before (0.009, 0.026) after (0.000, 0.024)
+2021-03-19 12:19:07 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostStalkTest4_0.2mm_PLA_RC.gcode, print time was 0h 55m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:18 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-20 14:22:32 [warn] Date and time set at power up + 00:00:18
+2021-03-20 14:36:22 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_0.2mm_PETG_RC.gcode
+2021-03-20 14:39:07 [warn] Leadscrew adjustments made: 0.030 0.022 0.072, points used 4, (mean, deviation) before (0.049, 0.026) after (0.000, 0.020)
+2021-03-20 14:39:49 [warn] Leadscrew adjustments made: 0.026 0.009 -0.007, points used 4, (mean, deviation) before (0.005, 0.029) after (0.000, 0.027)
+2021-03-20 15:09:34 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_0.2mm_PETG_RC.gcode, print time was 0h 33m
+2021-03-20 20:08:39 [warn] HTTP client 192.168.88.135 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:25 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-20 21:56:51 [warn] Date and time set at power up + 00:00:25
+2021-03-20 21:56:51 [warn] HTTP client 192.168.88.135 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:36 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 08:15:54 [warn] Date and time set at power up + 00:00:36
+2021-03-21 08:15:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 09:57:39 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-Post-7_0.2mm_PETG_RC.gcode
+2021-03-21 10:01:01 [warn] Leadscrew adjustments made: 0.019 0.032 0.044, points used 4, (mean, deviation) before (0.034, 0.022) after (-0.000, 0.020)
+2021-03-21 10:01:43 [warn] Leadscrew adjustments made: 0.027 0.008 -0.006, points used 4, (mean, deviation) before (0.006, 0.031) after (0.000, 0.029)
+2021-03-21 10:51:42 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-Post-7_0.2mm_PETG_RC.gcode, print time was 0h 54m
+2021-03-21 11:47:47 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostTest_0.2mm_PETG_RC.gcode
+2021-03-21 11:49:53 [warn] Leadscrew adjustments made: 0.036 0.054 0.044, points used 4, (mean, deviation) before (0.044, 0.023) after (0.000, 0.022)
+2021-03-21 11:50:18 [warn] Error: Z probe already triggered at start of probing move
+2021-03-21 11:50:21 [warn] Error: Z probe already triggered at start of probing move
+2021-03-21 11:50:29 [warn] Error: Z probe already triggered at start of probing move
+2021-03-21 11:50:30 [warn] Error: Homing failed
+2021-03-21 11:50:30 [warn] Cancelled printing file 0:/gcodes/Models/CurtainGuard-PostTest_0.2mm_PETG_RC.gcode, print time was 0h 2m
+2021-03-21 11:50:30 [warn] Error: G0/G1: insufficient axes homed
+2021-03-21 11:52:29 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 11:52:46 [warn] Date and time set at power up + 00:00:15
+2021-03-21 11:52:46 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 11:53:20 [warn] Error: Z probe already triggered at start of probing move
+2021-03-21 11:54:55 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostTest_0.2mm_PETG_RC.gcode
+2021-03-21 11:56:57 [warn] Leadscrew adjustments made: 0.060 0.059 0.030, points used 4, (mean, deviation) before (0.044, 0.027) after (-0.000, 0.025)
+2021-03-21 11:57:39 [warn] Leadscrew adjustments made: 0.016 0.002 -0.003, points used 4, (mean, deviation) before (0.003, 0.027) after (0.000, 0.026)
+2021-03-21 12:18:31 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostTest_0.2mm_PETG_RC.gcode, print time was 0h 23m
+2021-03-21 14:18:00 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostFull_0.3mm_PETG_RC.gcode
+2021-03-21 14:20:15 [warn] Leadscrew adjustments made: 0.003 0.044 0.050, points used 4, (mean, deviation) before (0.036, 0.030) after (0.000, 0.024)
+2021-03-21 14:20:57 [warn] Leadscrew adjustments made: 0.016 0.011 0.003, points used 4, (mean, deviation) before (0.008, 0.026) after (0.000, 0.026)
+2021-03-21 14:50:32 [warn] Resume state saved
+2021-03-21 14:50:39 [warn] Printing paused at X149.9 Y212.9 Z15.0
+2021-03-21 14:50:47 [warn] Cancelled printing file 0:/gcodes/Models/CurtainGuard-PostFull_0.3mm_PETG_RC.gcode, print time was 0h 32m
+2021-03-21 15:41:29 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 15:41:47 [warn] Date and time set at power up + 00:00:15
+2021-03-21 15:41:47 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 18:09:56 [warn] Started printing file 0:/gcodes/Calibration/HoseSideRingTest-v3_0.2mm_PETG_RC.gcode
+2021-03-21 18:12:38 [warn] Leadscrew adjustments made: 0.030 0.054 0.056, points used 4, (mean, deviation) before (0.049, 0.028) after (0.000, 0.026)
+2021-03-21 18:13:20 [warn] Leadscrew adjustments made: 0.027 0.015 -0.006, points used 4, (mean, deviation) before (0.007, 0.032) after (0.000, 0.030)
+2021-03-21 18:23:31 [warn] Finished printing file 0:/gcodes/Calibration/HoseSideRingTest-v3_0.2mm_PETG_RC.gcode, print time was 0h 13m
+2021-03-21 19:13:33 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostFull3_0.3mm_PETG_RC.gcode
+2021-03-21 19:18:07 [warn] Leadscrew adjustments made: 0.039 0.046 0.054, points used 4, (mean, deviation) before (0.048, 0.026) after (0.000, 0.025)
+2021-03-21 19:18:49 [warn] Leadscrew adjustments made: 0.030 0.006 -0.001, points used 4, (mean, deviation) before (0.009, 0.032) after (0.000, 0.030)
+2021-03-21 20:12:35 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-21 22:30:22 [warn] HTTP client 192.168.88.111 login succeeded
+2021-03-21 22:37:42 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostFull3_0.3mm_PETG_RC.gcode, print time was 3h 24m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:19 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-22 10:35:22 [warn] Date and time set at power up + 00:00:19
+2021-03-22 10:35:28 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-22 11:12:19 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_x2_0.2mm_PETG_RC.gcode
+2021-03-22 11:14:27 [warn] Leadscrew adjustments made: 0.045 0.064 0.041, points used 4, (mean, deviation) before (0.047, 0.023) after (0.000, 0.021)
+2021-03-22 11:15:09 [warn] Leadscrew adjustments made: 0.016 0.004 0.001, points used 4, (mean, deviation) before (0.006, 0.026) after (0.000, 0.026)
+2021-03-22 12:11:46 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_x2_0.2mm_PETG_RC.gcode, print time was 0h 59m
+2021-03-22 13:10:02 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostFull3_brim_0.3mm_PETG_RC.gcode
+2021-03-22 13:13:42 [warn] Leadscrew adjustments made: 0.032 0.038 0.061, points used 4, (mean, deviation) before (0.048, 0.026) after (0.000, 0.025)
+2021-03-22 13:14:23 [warn] Leadscrew adjustments made: 0.027 0.007 -0.005, points used 4, (mean, deviation) before (0.006, 0.032) after (0.000, 0.030)
+2021-03-22 16:34:31 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostFull3_brim_0.3mm_PETG_RC.gcode, print time was 3h 24m
+2021-03-22 17:48:08 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostFull3_raft_noZlift_0.3mm_PETG_RC.gcode
+2021-03-22 17:52:47 [warn] Leadscrew adjustments made: 0.043 0.059 0.047, points used 4, (mean, deviation) before (0.049, 0.025) after (0.000, 0.024)
+2021-03-22 17:53:29 [warn] Leadscrew adjustments made: 0.020 0.007 0.001, points used 4, (mean, deviation) before (0.007, 0.030) after (0.000, 0.029)
+2021-03-22 18:05:31 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-22 20:15:01 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-22 21:16:24 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostFull3_raft_noZlift_0.3mm_PETG_RC.gcode, print time was 3h 28m
+2021-03-22 21:30:22 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:35:16 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-23 08:42:15 [warn] Date and time set at power up + 00:35:16
+2021-03-23 08:47:30 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_0.2mm_PETG_RC.gcode
+2021-03-23 08:49:20 [warn] Leadscrew adjustments made: 0.019 0.036 0.051, points used 4, (mean, deviation) before (0.039, 0.024) after (0.000, 0.022)
+2021-03-23 08:50:02 [warn] Leadscrew adjustments made: 0.019 0.008 -0.001, points used 4, (mean, deviation) before (0.006, 0.028) after (-0.000, 0.027)
+2021-03-23 09:19:49 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-BaseSmoothest_0.2mm_PETG_RC.gcode, print time was 0h 32m
+2021-03-23 10:25:34 [warn] Started printing file 0:/gcodes/Models/CurtainGuard-PostFull3_raft_noZlift_0.3mm_PETG_RC.gcode
+2021-03-23 10:30:04 [warn] Leadscrew adjustments made: 0.036 0.040 0.066, points used 4, (mean, deviation) before (0.052, 0.026) after (-0.000, 0.024)
+2021-03-23 10:30:46 [warn] Leadscrew adjustments made: 0.024 0.007 -0.004, points used 4, (mean, deviation) before (0.006, 0.030) after (0.000, 0.029)
+2021-03-23 10:34:26 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-23 10:51:22 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-23 10:52:18 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-23 13:53:42 [warn] Finished printing file 0:/gcodes/Models/CurtainGuard-PostFull3_raft_noZlift_0.3mm_PETG_RC.gcode, print time was 3h 28m
+2021-03-23 15:03:48 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-23 15:10:55 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-23 17:30:48 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-23 17:30:50 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:18:37 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-28 16:16:53 [warn] Date and time set at power up + 01:18:37
+2021-03-28 18:04:49 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v7 Lid-Holes_fixed_0.2mm_PETG_RC.gcode
+2021-03-28 18:06:08 [warn] Leadscrew adjustments made: -0.022 0.045 0.041, points used 4, (mean, deviation) before (0.025, 0.035) after (-0.000, 0.019)
+2021-03-28 18:06:50 [warn] Leadscrew adjustments made: 0.027 0.002 -0.004, points used 4, (mean, deviation) before (0.005, 0.030) after (0.000, 0.027)
+2021-03-28 18:15:48 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-28 18:23:42 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-28 18:58:26 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v7 Lid-Holes_fixed_0.2mm_PETG_RC.gcode, print time was 0h 53m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 06:58:40 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-29 15:08:03 [warn] Date and time set at power up + 06:58:40
+2021-03-29 15:10:26 [warn] HTTP client 192.168.88.135 disconnected
+2021-03-29 15:14:13 [warn] HTTP client 192.168.88.159 login succeeded
+2021-03-29 15:16:20 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case Body v7_0.2mm_PETG_RC.gcode
+2021-03-29 15:17:47 [warn] Leadscrew adjustments made: 0.036 0.059 0.046, points used 4, (mean, deviation) before (0.046, 0.022) after (0.000, 0.020)
+2021-03-29 15:18:29 [warn] Leadscrew adjustments made: 0.016 0.008 -0.005, points used 4, (mean, deviation) before (0.004, 0.027) after (0.000, 0.026)
+2021-03-29 15:38:59 [warn] HTTP client 192.168.88.159 disconnected
+2021-03-29 17:27:43 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case Body v7_0.2mm_PETG_RC.gcode, print time was 2h 11m
+2021-03-29 17:32:19 [warn] HTTP client 192.168.88.135 login succeeded
+2021-03-29 17:32:31 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-03 07:42:53 [warn] Date and time set at power up + 00:00:56
+2021-04-03 07:46:08 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v8 BigBracket_0.3mm_PETG_RC.gcode
+2021-04-03 07:47:41 [warn] Leadscrew adjustments made: 0.011 0.041 0.057, points used 4, (mean, deviation) before (0.041, 0.025) after (-0.000, 0.019)
+2021-04-03 07:48:23 [warn] Leadscrew adjustments made: 0.018 0.007 0.001, points used 4, (mean, deviation) before (0.007, 0.024) after (-0.000, 0.023)
+2021-04-03 08:00:13 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-03 08:29:25 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v8 BigBracket_0.3mm_PETG_RC.gcode, print time was 0h 43m
+2021-04-03 08:40:33 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-03 08:40:41 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 276C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 02:15:24 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-04 10:46:14 [warn] Date and time set at power up + 02:15:24
+2021-04-04 10:59:54 [warn] Error: M303: tool 1 not found
+2021-04-04 11:08:33 [warn] Auto tuning heater 1 completed after 3 idle and 5 tuning cycles in 455 seconds. This heater needs the following M307 command:
+ M307 H1 R1.860 C240.1 D6.45 S1.00 V24.4
+2021-04-04 11:42:02 [warn] Auto tuning heater 0 completed after 3 idle and 5 tuning cycles in 1525 seconds. This heater needs the following M307 command:
+ M307 H0 R0.319 C829.9 D16.91 S1.00 V24.4
+2021-04-04 11:50:00 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-04 11:50:15 [warn] Date and time set at power up + 00:00:15
+2021-04-04 11:50:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-04 13:30:10 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-04 13:30:26 [warn] Date and time set at power up + 00:00:15
+2021-04-04 13:30:26 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-04 13:41:07 [warn] Leadscrew adjustments made: 0.035 0.046 0.063, points used 4, (mean, deviation) before (0.052, 0.020) after (0.000, 0.018)
+2021-04-04 13:43:57 [warn] 20 points probed, min error -0.066, max error 0.036, mean -0.027, deviation 0.027
+Height map saved to file 0:/sys/heightmap.csv
+2021-04-04 13:45:48 [warn] Leadscrew adjustments made: 0.009 -0.006 -0.013, points used 4, (mean, deviation) before (-0.005, 0.020) after (0.000, 0.019)
+2021-04-04 13:48:38 [warn] 20 points probed, min error -0.067, max error 0.038, mean -0.030, deviation 0.028
+Height map saved to file 0:/sys/heightmap.csv
+2021-04-04 13:54:55 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v8c-noheatBigBracket_0.3mm_PETG_RC.gcode
+2021-04-04 13:56:40 [warn] Leadscrew adjustments made: 0.067 0.044 0.049, points used 4, (mean, deviation) before (0.052, 0.021) after (0.000, 0.019)
+2021-04-04 13:57:22 [warn] Leadscrew adjustments made: 0.015 0.011 -0.006, points used 4, (mean, deviation) before (0.004, 0.025) after (-0.000, 0.024)
+2021-04-04 14:56:55 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v8c-noheatBigBracket_0.3mm_PETG_RC.gcode, print time was 1h 2m
+2021-04-04 15:54:06 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:22:39 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 08:43:48 [warn] Date and time set at power up + 00:22:39
+2021-04-05 08:44:28 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-05 11:19:12 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 11:26:51 [warn] Leadscrew adjustments made: -0.008 0.049 0.065, points used 4, (mean, deviation) before (0.042, 0.033) after (-0.000, 0.017)
+2021-04-05 11:27:40 [warn] Leadscrew adjustments made: 0.016 0.001 0.005, points used 4, (mean, deviation) before (0.007, 0.020) after (0.000, 0.019)
+2021-04-05 11:28:12 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v8d-BigBracket_0.3mm_PETG_RC.gcode
+2021-04-05 11:30:09 [warn] Leadscrew adjustments made: 0.050 0.044 0.043, points used 4, (mean, deviation) before (0.045, 0.018) after (0.000, 0.018)
+2021-04-05 11:30:50 [warn] Leadscrew adjustments made: 0.015 0.004 -0.004, points used 4, (mean, deviation) before (0.003, 0.021) after (0.000, 0.020)
+2021-04-05 12:29:07 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 12:45:41 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 12:49:08 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v8d-BigBracket_0.3mm_PETG_RC.gcode, print time was 1h 20m
+2021-04-05 14:24:15 [warn] Started printing file 0:/gcodes/Calibration/Shape-Sphere_0.2mm_PETG_RC.gcode
+2021-04-05 14:26:43 [warn] Leadscrew adjustments made: 0.043 0.061 0.062, points used 4, (mean, deviation) before (0.057, 0.022) after (-0.000, 0.020)
+2021-04-05 14:27:25 [warn] Leadscrew adjustments made: 0.017 0.009 0.001, points used 4, (mean, deviation) before (0.007, 0.024) after (0.000, 0.023)
+2021-04-05 14:30:15 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-05 14:37:30 [warn] Resume state saved
+2021-04-05 14:37:38 [warn] Printing paused at X143.6 Y134.0 Z8.8
+2021-04-05 14:37:58 [warn] Printing resumed
+2021-04-05 14:42:23 [warn] Finished printing file 0:/gcodes/Calibration/Shape-Sphere_0.2mm_PETG_RC.gcode, print time was 0h 17m
+2021-04-05 16:22:55 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 16:23:25 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-05 16:23:36 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 16:35:55 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-05 16:37:18 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-05 16:40:17 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Body_0.2mm_PETG_RC.gcode
+2021-04-05 16:42:38 [warn] Leadscrew adjustments made: 0.060 0.050 0.070, points used 4, (mean, deviation) before (0.063, 0.018) after (0.000, 0.016)
+2021-04-05 16:43:20 [warn] Leadscrew adjustments made: 0.019 0.006 -0.004, points used 4, (mean, deviation) before (0.004, 0.021) after (0.000, 0.019)
+2021-04-05 16:52:35 [warn] HTTP client 192.168.88.135 disconnected
+2021-04-05 19:04:44 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Body_0.2mm_PETG_RC.gcode, print time was 2h 24m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:37:55 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Bracket_Lid_0.2mm_PETG_RC.gcode
+power up + 01:43:07 [warn] Leadscrew adjustments made: 0.045 0.050 0.073, points used 4, (mean, deviation) before (0.060, 0.019) after (0.000, 0.017)
+power up + 01:43:49 [warn] Leadscrew adjustments made: 0.021 0.010 -0.003, points used 4, (mean, deviation) before (0.006, 0.022) after (0.000, 0.021)
+power up + 01:48:19 [warn] Resume state saved
+power up + 01:48:28 [warn] Printing paused at X157.1 Y202.2 Z0.2
+power up + 01:48:28 [warn] Error: M25: Printing is already paused!
+power up + 01:49:51 [warn] Cancelled printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Bracket_Lid_0.2mm_PETG_RC.gcode, print time was 0h 10m
+power up + 01:51:41 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Bracket_Lid_0.2mm_PETG_RC.gcode
+power up + 01:52:46 [warn] Leadscrew adjustments made: 0.071 0.051 0.053, points used 4, (mean, deviation) before (0.057, 0.019) after (-0.000, 0.016)
+power up + 01:53:27 [warn] Leadscrew adjustments made: 0.015 -0.002 -0.009, points used 4, (mean, deviation) before (-0.001, 0.024) after (0.000, 0.022)
+power up + 04:10:55 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v9-Bracket_Lid_0.2mm_PETG_RC.gcode, print time was 2h 19m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:04:11 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-07 11:45:37 [warn] Date and time set at power up + 00:04:11
+2021-04-07 11:50:59 [warn] Leadscrew adjustments made: 0.016 0.075 0.082, points used 4, (mean, deviation) before (0.063, 0.032) after (0.000, 0.017)
+2021-04-07 11:51:50 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v10-Body_0.2mm_PETG_RC.gcode
+2021-04-07 11:53:27 [warn] Leadscrew adjustments made: 0.069 0.048 0.058, points used 4, (mean, deviation) before (0.058, 0.019) after (0.000, 0.017)
+2021-04-07 11:54:09 [warn] Leadscrew adjustments made: 0.019 0.010 -0.001, points used 4, (mean, deviation) before (0.006, 0.023) after (0.000, 0.022)
+2021-04-07 14:24:34 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v10-Body_0.2mm_PETG_RC.gcode, print time was 2h 32m
+2021-04-07 15:13:44 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v10-Lid_Bracket_0.2mm_PETG_RC.gcode
+2021-04-07 15:18:33 [warn] Leadscrew adjustments made: 0.062 0.073 0.057, points used 4, (mean, deviation) before (0.062, 0.017) after (0.000, 0.016)
+2021-04-07 15:19:15 [warn] Leadscrew adjustments made: 0.017 -0.002 0.003, points used 4, (mean, deviation) before (0.006, 0.022) after (0.000, 0.021)
+2021-04-07 17:44:10 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v10-Lid_Bracket_0.2mm_PETG_RC.gcode, print time was 2h 30m
+2021-04-07 19:08:37 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 05:08:07 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-08 13:56:43 [warn] Date and time set at power up + 05:08:07
+2021-04-08 14:00:59 [warn] Started printing file 0:/gcodes/PrinterTools/RepPanel Case v11_x4-Standoff_0.2mm_PETG_RC.gcode
+2021-04-08 14:04:39 [warn] Leadscrew adjustments made: 0.013 0.061 0.075, points used 4, (mean, deviation) before (0.056, 0.028) after (-0.000, 0.015)
+2021-04-08 14:05:21 [warn] Leadscrew adjustments made: 0.015 0.002 0.000, points used 4, (mean, deviation) before (0.004, 0.020) after (0.000, 0.019)
+2021-04-08 14:28:02 [warn] Finished printing file 0:/gcodes/PrinterTools/RepPanel Case v11_x4-Standoff_0.2mm_PETG_RC.gcode, print time was 0h 27m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 06:25:27 [warn] HTTP client 192.168.88.135 login succeeded
+2021-04-30 15:29:00 [warn] Date and time set at power up + 06:25:27
+2021-04-30 15:55:23 [warn] Started printing file 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode
+2021-04-30 15:56:41 [warn] Leadscrew adjustments made: 0.054 0.030 0.072, points used 4, (mean, deviation) before (0.057, 0.022) after (0.000, 0.017)
+2021-04-30 15:57:23 [warn] Leadscrew adjustments made: 0.009 0.007 -0.004, points used 4, (mean, deviation) before (0.002, 0.016) after (0.000, 0.016)
+2021-04-30 16:27:55 [warn] HTTP client 192.168.88.143 login succeeded
+2021-04-30 16:52:23 [warn] HTTP client 192.168.88.143 login succeeded
+2021-04-30 16:54:48 [warn] Finished printing file 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode, print time was 0h 59m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:49 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-01 09:11:36 [warn] Date and time set at power up + 00:00:49
+2021-05-01 09:15:23 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-01 09:15:39 [warn] Date and time set at power up + 00:00:15
+2021-05-01 09:15:39 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-01 10:18:14 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 03:01:57 [warn] Warning: VIN under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:08:50 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-02 14:29:14 [warn] Date and time set at power up + 01:08:50
+2021-05-02 14:35:26 [warn] Leadscrew adjustments made: 0.278 0.034 0.030, points used 4, (mean, deviation) before (0.095, 0.110) after (0.000, 0.012)
+2021-05-02 14:36:29 [warn] Leadscrew adjustments made: 0.008 0.006 -0.006, points used 4, (mean, deviation) before (0.000, 0.014) after (-0.000, 0.013)
+2021-05-02 14:43:15 [warn] Leadscrew adjustments made: 0.018 0.004 0.005, points used 4, (mean, deviation) before (0.008, 0.013) after (0.000, 0.012)
+2021-05-02 14:44:16 [warn] Leadscrew adjustments made: 0.000 -0.002 -0.001, points used 4, (mean, deviation) before (-0.001, 0.012) after (0.000, 0.012)
+2021-05-02 14:45:30 [warn] Leadscrew adjustments made: 0.007 -0.001 -0.004, points used 4, (mean, deviation) before (-0.000, 0.016) after (0.000, 0.015)
+2021-05-02 14:46:22 [warn] Leadscrew adjustments made: -0.008 -0.010 0.003, points used 4, (mean, deviation) before (-0.003, 0.013) after (0.000, 0.012)
+2021-05-02 14:54:38 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-02 14:54:53 [warn] Date and time set at power up + 00:00:15
+2021-05-02 14:54:53 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-02 14:58:59 [warn] Leadscrew adjustments made: 0.037 0.048 0.050, points used 4, (mean, deviation) before (0.046, 0.009) after (0.000, 0.007)
+2021-05-02 14:59:53 [warn] Leadscrew adjustments made: 0.022 0.006 0.005, points used 4, (mean, deviation) before (0.010, 0.015) after (0.000, 0.014)
+2021-05-02 15:00:56 [warn] Leadscrew adjustments made: 0.011 0.012 -0.002, points used 4, (mean, deviation) before (0.005, 0.014) after (0.000, 0.013)
+2021-05-02 15:03:13 [warn] Leadscrew adjustments made: 0.005 0.004 -0.002, points used 4, (mean, deviation) before (0.001, 0.011) after (0.000, 0.011)
+2021-05-02 15:06:44 [warn] 20 points probed, min error -0.067, max error 0.032, mean -0.030, deviation 0.026
+Height map saved to file 0:/sys/heightmap.csv
+2021-05-02 15:09:30 [warn] Started printing file 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode
+2021-05-02 15:11:13 [warn] Leadscrew adjustments made: 0.044 0.042 0.050, points used 4, (mean, deviation) before (0.047, 0.011) after (0.000, 0.011)
+2021-05-02 15:11:55 [warn] Leadscrew adjustments made: 0.005 0.000 -0.001, points used 4, (mean, deviation) before (0.001, 0.014) after (0.000, 0.013)
+2021-05-02 15:28:39 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-02 16:08:44 [warn] Finished printing file 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode, print time was 0h 59m
+2021-05-02 20:00:58 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:11:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-03 09:36:48 [warn] Date and time set at power up + 01:11:56
+2021-05-03 09:39:44 [warn] Started printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode
+2021-05-03 09:41:59 [warn] Leadscrew adjustments made: 0.027 0.070 0.055, points used 4, (mean, deviation) before (0.051, 0.020) after (0.000, 0.009)
+2021-05-03 09:42:41 [warn] Leadscrew adjustments made: 0.017 0.005 -0.002, points used 4, (mean, deviation) before (0.005, 0.014) after (0.000, 0.012)
+2021-05-03 10:20:44 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-03 10:20:44 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-03 10:34:16 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-03 10:40:40 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-03 11:10:45 [warn] Finished printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode, print time was 1h 31m
+2021-05-03 14:12:53 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.2.2 (2021-02-11)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 02:16:47 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:20:07 [warn] Date and time set at power up + 02:16:47
+2021-05-07 11:20:27 [warn] Started simulating printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode
+2021-05-07 11:22:09 [warn] File 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode will print in 1h 25m plus heating time
+2021-05-07 11:24:09 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:24:30 [warn] Date and time set at power up + 00:00:15
+2021-05-07 11:24:30 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:26:12 [warn] HTTP client 192.168.88.135 disconnected
+2021-05-07 11:26:14 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:28:07 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:28:23 [warn] Date and time set at power up + 00:00:15
+2021-05-07 11:28:23 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 11:28:55 [warn] Started simulating printing file 0:/gcodes/KosselMini/1515 Base Plate Wide Cam Mount_0.2mm_PETG_RC.gcode
+2021-05-07 11:28:55 [warn] Error: Invalid tool number
+2021-05-07 11:28:55 [warn] Error: Invalid tool number
+2021-05-07 11:28:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:28:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:29:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:30:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:31:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:32:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:16 [warn] Printing paused at X144.4 Y114.5 Z12.6
+2021-05-07 11:33:17 [warn] Cancelled simulating file 0:/gcodes/KosselMini/1515 Base Plate Wide Cam Mount_0.2mm_PETG_RC.gcode after 1h 27m simulated time
+2021-05-07 11:33:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:41 [warn] Started simulating printing file 0:/gcodes/Calibration/HoseSideRingTest-v3_0.2mm_PETG_RC.gcode
+2021-05-07 11:33:42 [warn] Error: Invalid tool number
+2021-05-07 11:33:42 [warn] Error: Invalid tool number
+2021-05-07 11:33:42 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:46 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:50 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:54 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:33:56 [warn] File 0:/gcodes/Calibration/HoseSideRingTest-v3_0.2mm_PETG_RC.gcode will print in 0h 8m plus heating time
+2021-05-07 11:33:58 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:15 [warn] Started simulating printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode
+2021-05-07 11:34:15 [warn] Error: Invalid tool number
+2021-05-07 11:34:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:34:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:35:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:36:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:37:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:43 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:47 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:51 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:55 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:38:59 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:03 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:07 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:11 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:15 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:19 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:23 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:27 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:31 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:35 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:39 [warn] Error: Attempting to extrude with no tool selected.
+2021-05-07 11:39:41 [warn] File 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode will print in 1h 23m plus heating time
+2021-05-07 11:39:43 [warn] Error: Attempting to extrude with no tool selected.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:01 [warn] Error: bad drive number
+power up + 00:00:01 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:01 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:01 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 14:21:40 [warn] Date and time set at power up + 00:00:15
+2021-05-07 14:21:40 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 16:24:21 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+2021-05-07 16:24:36 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 16:25:57 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+2021-05-07 16:26:14 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-07 16:31:33 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:01 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:01 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:01 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:05:05 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 10:38:42 [warn] Date and time set at power up + 00:05:05
+2021-05-09 10:40:45 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 12:55:52 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:37:30 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:37:45 [warn] Date and time set at power up + 00:00:15
+2021-05-09 14:37:45 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:41:37 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:41:53 [warn] Date and time set at power up + 00:00:15
+2021-05-09 14:41:53 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:43:57 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:44:13 [warn] Date and time set at power up + 00:00:15
+2021-05-09 14:44:14 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:46:35 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:46:50 [warn] Date and time set at power up + 00:00:15
+2021-05-09 14:46:50 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:49:43 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 14:50:00 [warn] Date and time set at power up + 00:00:15
+2021-05-09 14:50:00 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:31:31 [warn] Error: M997: In-application programming binary "0:/firmware/Duet2_SDiap32_WiFiEth.bin" not found
+2021-05-09 15:31:57 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:32:13 [warn] Date and time set at power up + 00:00:15
+2021-05-09 15:32:13 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:42:42 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:42:58 [warn] Date and time set at power up + 00:00:15
+2021-05-09 15:42:59 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:59:25 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 15:59:40 [warn] Date and time set at power up + 00:00:15
+2021-05-09 15:59:41 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 16:01:41 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:06:39 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:09:57 [warn] Date and time set at power up + 00:06:39
+2021-05-09 17:11:37 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:11:51 [warn] Date and time set at power up + 00:00:15
+2021-05-09 17:11:51 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:12:42 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:12:57 [warn] Date and time set at power up + 00:00:15
+2021-05-09 17:12:57 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:13:54 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Error: bad drive number
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Error: Attempt to set/report offsets and temperatures for non-existent tool: 0
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 17:14:11 [warn] Date and time set at power up + 00:00:15
+2021-05-09 17:14:11 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:45:40 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:45:55 [warn] Date and time set at power up + 00:00:15
+2021-05-09 19:45:55 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:53:44 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:54:00 [warn] Date and time set at power up + 00:00:15
+2021-05-09 19:54:00 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:58:54 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 19:59:10 [warn] Date and time set at power up + 00:00:15
+2021-05-09 19:59:10 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 20:06:48 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 20:07:03 [warn] Date and time set at power up + 00:00:15
+2021-05-09 20:07:03 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-09 20:10:57 [warn] HTTP client 192.168.88.135 disconnected
+2021-05-09 21:56:46 [warn] Network running, IP address = 192.168.88.113
+2021-05-09 21:56:53 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 08:28:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-10 17:00:32 [warn] Date and time set at power up + 08:28:15
+2021-05-10 17:01:17 [warn] Started simulating printing file 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode
+2021-05-10 17:03:27 [warn] File 0:/gcodes/Calibration/SquaredCircle 50mm_0.2mm_PLA_RC.gcode will print in 0h 55m plus heating time
+2021-05-10 18:40:42 [warn] Started printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode
+2021-05-10 18:42:27 [warn] Leadscrew adjustments made: 0.044 0.044 0.070, points used 4, (mean, deviation) before (0.057, 0.012) after (0.000, 0.007)
+2021-05-10 18:43:09 [warn] Leadscrew adjustments made: 0.020 0.001 -0.001, points used 4, (mean, deviation) before (0.005, 0.014) after (0.000, 0.011)
+2021-05-10 19:24:01 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-10 20:10:16 [warn] Finished printing file 0:/gcodes/Calibration/3DBenchy_0.2mm_PLA_RC.gcode, print time was 1h 29m
+2021-05-10 20:27:16 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:01 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:12:34 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 17:21:41 [warn] Date and time set at power up + 00:12:34
+2021-05-14 19:52:33 [warn] Error: M997: In-application programming binary "0:/firmware/Duet2_SDiap32_WiFiEth.bin" not found
+2021-05-14 19:54:12 [warn] HTTP client 192.168.88.135 disconnected
+2021-05-14 19:54:14 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 19:54:31 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC1 (2021-05-01 09:57:58)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 19:54:47 [warn] Date and time set at power up + 00:00:15
+2021-05-14 19:54:48 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 19:55:56 [warn] Error: M997: In-application programming binary "0:/firmware/Duet2_SDiap32_WiFiEth.bin" not found
+2021-05-14 19:56:37 [warn] Error: M997: In-application programming binary "0:/firmware/Duet2_SDiap32_WiFiEth.bin" not found
+2021-05-14 20:01:21 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:14 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 20:01:42 [warn] Date and time set at power up + 00:00:15
+2021-05-14 20:01:42 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 20:02:29 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-14 20:02:45 [warn] Date and time set at power up + 00:00:15
+2021-05-14 20:06:29 [warn] HTTP client 192.168.88.135 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 02:44:52 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-16 10:48:24 [warn] Date and time set at power up + 02:44:52
+2021-05-16 10:49:35 [warn] Started simulating printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_RC_0.3mm_PETG_RC.gcode
+2021-05-16 10:50:26 [warn] File 0:/gcodes/Models/Pixel Ring v1_x1_layermix_RC_0.3mm_PETG_RC.gcode will print in 0h 25m plus heating time
+2021-05-16 11:51:53 [warn] Started printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_RC_0.3mm_PETG_RC.gcode
+2021-05-16 11:55:17 [warn] Leadscrew adjustments made: 0.073 0.029 0.067, points used 4, (mean, deviation) before (0.059, 0.023) after (0.000, 0.014)
+2021-05-16 11:56:00 [warn] Leadscrew adjustments made: 0.010 0.005 -0.005, points used 4, (mean, deviation) before (0.002, 0.017) after (0.000, 0.016)
+2021-05-16 12:23:43 [warn] Finished printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_RC_0.3mm_PETG_RC.gcode, print time was 0h 31m
+2021-05-16 13:43:10 [warn] Started printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode
+2021-05-16 13:48:14 [warn] Leadscrew adjustments made: 0.053 0.087 0.047, points used 4, (mean, deviation) before (0.058, 0.018) after (0.000, 0.009)
+2021-05-16 13:48:56 [warn] Leadscrew adjustments made: 0.018 0.006 0.002, points used 4, (mean, deviation) before (0.007, 0.014) after (0.000, 0.013)
+2021-05-16 17:31:52 [warn] Finished printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode, print time was 3h 48m
+2021-05-16 20:34:55 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:20:53 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-17 09:32:26 [warn] Date and time set at power up + 01:20:53
+2021-05-17 09:34:09 [warn] Started printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode
+2021-05-17 09:37:29 [warn] Leadscrew adjustments made: 0.019 0.051 0.087, points used 4, (mean, deviation) before (0.061, 0.023) after (0.000, 0.007)
+2021-05-17 09:38:12 [warn] Leadscrew adjustments made: 0.022 0.015 -0.006, points used 4, (mean, deviation) before (0.006, 0.014) after (0.000, 0.011)
+2021-05-17 13:21:10 [warn] Finished printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode, print time was 3h 47m
+2021-05-17 13:52:59 [warn] Started printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode
+2021-05-17 13:57:19 [warn] Leadscrew adjustments made: 0.100 0.082 0.038, points used 4, (mean, deviation) before (0.065, 0.022) after (-0.000, 0.009)
+2021-05-17 13:58:01 [warn] Leadscrew adjustments made: 0.023 0.011 -0.002, points used 4, (mean, deviation) before (0.008, 0.014) after (0.000, 0.012)
+2021-05-17 17:40:54 [warn] Finished printing file 0:/gcodes/Models/Pixel Ring v1_x1_layermix_x9_0.3mm_PETG_RC.gcode, print time was 3h 47m
+2021-05-17 18:52:33 [warn] Started printing file 0:/gcodes/Models/Shingle Clip v1.1_x13_0.3mm_PETG_RC.gcode
+2021-05-17 18:57:13 [warn] Leadscrew adjustments made: 0.028 0.039 0.068, points used 4, (mean, deviation) before (0.051, 0.016) after (0.000, 0.010)
+2021-05-17 18:57:56 [warn] Leadscrew adjustments made: 0.019 0.005 -0.003, points used 4, (mean, deviation) before (0.005, 0.016) after (0.000, 0.014)
+2021-05-17 21:06:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-17 22:27:09 [warn] Finished printing file 0:/gcodes/Models/Shingle Clip v1.1_x13_0.3mm_PETG_RC.gcode, print time was 3h 34m
+2021-05-17 22:32:58 [warn] HTTP client 192.168.88.111 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 01:57:37 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-18 16:58:32 [warn] Date and time set at power up + 01:57:37
+2021-05-18 16:59:06 [warn] Started printing file 0:/gcodes/Calibration/Eiffel_Tower_mini_0.12mm_PETG_RC.gcode
+2021-05-18 17:03:56 [warn] Leadscrew adjustments made: 0.031 0.034 0.084, points used 4, (mean, deviation) before (0.058, 0.019) after (-0.000, 0.007)
+2021-05-18 17:04:38 [warn] Leadscrew adjustments made: 0.018 0.006 0.002, points used 4, (mean, deviation) before (0.007, 0.009) after (0.000, 0.007)
+2021-05-18 17:54:06 [warn] Finished printing file 0:/gcodes/Calibration/Eiffel_Tower_mini_0.12mm_PETG_RC.gcode, print time was 0h 54m
+2021-05-18 21:08:45 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-18 21:23:03 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 06:34:57 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 15:08:14 [warn] Date and time set at power up + 06:34:57
+2021-05-21 15:11:19 [warn] HTTP client 192.168.88.159 disconnected
+2021-05-21 15:12:24 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-21 15:12:41 [warn] Started simulating printing file 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PLA_RC.gcode
+2021-05-21 15:18:20 [warn] File 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PLA_RC.gcode will print in 1h 26m plus heating time
+2021-05-21 17:57:40 [warn] Started printing file 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PLA_RC.gcode
+2021-05-21 18:01:59 [warn] Leadscrew adjustments made: 0.039 0.062 0.069, points used 4, (mean, deviation) before (0.059, 0.012) after (0.000, 0.004)
+2021-05-21 18:02:41 [warn] Leadscrew adjustments made: 0.005 -0.000 0.003, points used 4, (mean, deviation) before (0.003, 0.007) after (0.000, 0.007)
+2021-05-21 18:08:36 [warn] HTTP client 192.168.88.111 login succeeded
+2021-05-21 18:08:59 [warn] Resume state saved
+2021-05-21 18:09:04 [warn] Printing paused at X123.2 Y150.6 Z1.4
+2021-05-21 18:09:06 [warn] Cancelled printing file 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PLA_RC.gcode, print time was 0h 11m
+2021-05-21 18:15:41 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 18:17:14 [warn] Error: Cannot read file, error code 2
+2021-05-21 18:17:14 [warn] Warning: Failed to read header of G-Code file "0:/gcodes/RailCore/z_thrust_bearing_spacer_x3_0.2mm_PETG_RC.gcode"
+2021-05-21 18:17:14 [warn] Error: Cannot read file, error code 2
+2021-05-21 18:17:14 [warn] Warning: Failed to read header of G-Code file "0:/gcodes/RailCore/z_thrust_bearing_spacer_x4_0.2mm_PETG_RC.gcode"
+2021-05-21 18:18:22 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 18:19:52 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 18:20:08 [warn] Date and time set at power up + 00:00:15
+2021-05-21 18:20:08 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 18:20:24 [warn] HTTP client 192.168.88.159 disconnected
+2021-05-21 18:20:31 [warn] HTTP client 192.168.88.159 login succeeded
+2021-05-21 18:20:39 [warn] HTTP client 192.168.88.159 disconnected
+2021-05-21 18:21:34 [warn] Started printing file 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PETG_RC.gcode
+2021-05-21 18:24:49 [warn] Leadscrew adjustments made: 0.098 0.046 0.058, points used 4, (mean, deviation) before (0.065, 0.023) after (0.000, 0.006)
+2021-05-21 18:25:31 [warn] Leadscrew adjustments made: 0.020 0.004 -0.002, points used 4, (mean, deviation) before (0.005, 0.013) after (0.000, 0.010)
+2021-05-21 18:27:02 [warn] HTTP client 192.168.88.111 login succeeded
+2021-05-21 18:49:06 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-21 19:54:56 [warn] Finished printing file 0:/gcodes/Calibration/3DBenchy_231_0.2mm_PETG_RC.gcode, print time was 1h 33m
+2021-05-21 20:22:16 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:02:21 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-22 09:23:37 [warn] Date and time set at power up + 00:02:21
+2021-05-22 09:26:16 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-22 09:46:27 [warn] HTTP client 192.168.88.135 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC2 (2021-05-11 14:55:01)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 02:05:36 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-28 10:20:26 [warn] Date and time set at power up + 02:05:36
+2021-05-28 10:54:22 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC3 (2021-05-26 13:47:13)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 00:00:15 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-28 10:54:43 [warn] Date and time set at power up + 00:00:15
+2021-05-28 10:54:43 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-28 10:56:07 [warn] HTTP client 192.168.88.135 disconnected
+2021-05-28 10:56:08 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-28 11:57:26 [warn] HTTP client 192.168.88.135 disconnected
+2021-05-28 21:08:56 [warn] HTTP client 192.168.88.135 login succeeded
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet Ethernet 1.02 or later: 3.3RC3 (2021-05-26 13:47:13)
+power up + 00:00:00 [warn] Warning: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 471C
+power up + 00:00:00 [warn] Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 289C
+power up + 00:00:15 [warn] Network running, IP address = 192.168.88.113
+power up + 03:54:56 [warn] HTTP client 192.168.88.135 login succeeded
+2021-05-29 11:54:24 [warn] Date and time set at power up + 03:54:56
+2021-05-29 12:22:05 [warn] Started printing file 0:/gcodes/Calibration/LollyPop_x2_0.2mm_PLA_RC.gcode
+2021-05-29 12:26:26 [warn] Leadscrew adjustments made: -0.010 0.041 0.077, points used 4, (mean, deviation) before (0.046, 0.031) after (0.000, 0.008)
+2021-05-29 12:27:08 [warn] Leadscrew adjustments made: 0.014 0.003 0.001, points used 4, (mean, deviation) before (0.005, 0.013) after (0.000, 0.012)
+2021-05-29 12:43:07 [warn] Finished printing file 0:/gcodes/Calibration/LollyPop_x2_0.2mm_PLA_RC.gcode, print time was 0h 21m
+2021-05-29 14:12:06 [warn] HTTP client 192.168.88.135 login succeeded

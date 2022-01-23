@@ -1,0 +1,549 @@
+power up + 00:00:00 Event logging started
+power up + 00:00:00 Warning: Macro file filamentsensor.g not found
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-10-22 10:31:05 Date and time set at power up + 00:00:16
+2020-10-22 10:33:23 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-10-22 10:33:43 Date and time set at power up + 00:00:16
+2020-10-22 10:34:42 HTTP client 192.168.88.135 disconnected
+2020-10-22 11:58:14 HTTP client 192.168.88.135 login succeeded
+2020-10-22 14:07:33 Leadscrew adjustments made: 0.013 0.024 0.049, points used 4, (mean, deviation) before (0.034, 0.017) after (0.000, 0.012)
+2020-10-22 14:09:05 Started printing file 0:/gcodes/Calibration/LollyPop_x2_0.2mm_PLA_RC.gcode
+2020-10-22 14:10:50 Leadscrew adjustments made: 0.035 0.030 0.022, points used 4, (mean, deviation) before (0.027, 0.011) after (0.000, 0.010)
+2020-10-22 14:11:32 Leadscrew adjustments made: 0.019 0.009 -0.002, points used 4, (mean, deviation) before (0.006, 0.016) after (-0.000, 0.014)
+2020-10-22 14:26:15 Finished printing file 0:/gcodes/Calibration/LollyPop_x2_0.2mm_PLA_RC.gcode, print time was 0h 17m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:18 HTTP client 192.168.88.135 login succeeded
+2020-10-22 16:25:53 Date and time set at power up + 00:00:18
+2020-10-22 16:37:18 Started printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-10-22 16:39:06 Leadscrew adjustments made: -0.096 0.095 -0.069, points used 4, (mean, deviation) before (-0.037, 0.085) after (-0.000, 0.025)
+2020-10-22 16:39:49 Leadscrew adjustments made: 0.018 0.024 0.005, points used 4, (mean, deviation) before (0.013, 0.026) after (0.000, 0.025)
+2020-10-22 16:59:48 Finished printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode, print time was 0h 22m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:24 HTTP client 192.168.88.135 login succeeded
+2020-10-23 08:31:30 Date and time set at power up + 00:00:24
+2020-10-23 10:29:01 Leadscrew adjustments made: -0.010 -0.005 0.051, points used 4, (mean, deviation) before (0.022, 0.030) after (0.000, 0.022)
+2020-10-23 10:30:38 Started printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-23 10:31:38 Leadscrew adjustments made: 0.000 0.004 -0.021, points used 4, (mean, deviation) before (-0.010, 0.024) after (0.000, 0.023)
+2020-10-23 10:32:20 Leadscrew adjustments made: 0.022 0.008 -0.003, points used 4, (mean, deviation) before (0.006, 0.027) after (0.000, 0.025)
+2020-10-23 10:52:15 Finished printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 21m
+2020-10-23 17:08:25 Started printing file 0:/gcodes/PrinterTools/AxlesA_B_12x_0.2mm_PLA_RC.gcode
+2020-10-23 17:09:59 Leadscrew adjustments made: -0.005 0.010 0.014, points used 4, (mean, deviation) before (0.008, 0.024) after (-0.000, 0.022)
+2020-10-23 17:10:41 Leadscrew adjustments made: 0.020 0.004 -0.000, points used 4, (mean, deviation) before (0.006, 0.027) after (0.000, 0.026)
+2020-10-23 17:13:39 Resume state saved
+2020-10-23 17:13:43 Printing paused at X78.2 Y32.7 Z0.4
+2020-10-23 17:13:44 Cancelled printing file 0:/gcodes/PrinterTools/AxlesA_B_12x_0.2mm_PLA_RC.gcode, print time was 0h 5m
+2020-10-23 17:19:20 Started printing file 0:/gcodes/PrinterTools/Axle_A_12x_0.2mm_PLA_RC.gcode
+2020-10-23 17:19:23 HTTP client 192.168.88.135 login succeeded
+2020-10-23 17:20:28 Leadscrew adjustments made: -0.007 -0.019 -0.009, points used 4, (mean, deviation) before (-0.011, 0.025) after (0.000, 0.024)
+2020-10-23 17:21:10 Leadscrew adjustments made: 0.014 -0.000 -0.006, points used 4, (mean, deviation) before (0.001, 0.031) after (0.000, 0.030)
+2020-10-23 17:30:03 Finished printing file 0:/gcodes/PrinterTools/Axle_A_12x_0.2mm_PLA_RC.gcode, print time was 0h 10m
+2020-10-23 17:46:07 Started printing file 0:/gcodes/PrinterTools/Axle_B_0.2mm_PLA_RC.gcode
+2020-10-23 17:48:56 Leadscrew adjustments made: 0.002 0.015 0.003, points used 4, (mean, deviation) before (0.006, 0.020) after (0.000, 0.019)
+2020-10-23 17:49:39 Leadscrew adjustments made: 0.019 -0.000 -0.003, points used 4, (mean, deviation) before (0.003, 0.030) after (0.000, 0.028)
+2020-10-23 17:59:38 Finished printing file 0:/gcodes/PrinterTools/Axle_B_0.2mm_PLA_RC.gcode, print time was 0h 13m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:30 HTTP client 192.168.88.135 login succeeded
+2020-10-24 15:58:27 Date and time set at power up + 00:00:30
+2020-10-24 18:19:05 Started printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-24 18:22:29 Leadscrew adjustments made: -0.050 0.001 0.029, points used 4, (mean, deviation) before (0.002, 0.035) after (0.000, 0.021)
+2020-10-24 18:23:11 Leadscrew adjustments made: 0.019 0.011 0.002, points used 4, (mean, deviation) before (0.008, 0.026) after (0.000, 0.025)
+2020-10-24 18:43:06 Finished printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 24m
+2020-10-24 22:42:43 Warning: VIN under-voltage event (9.4V)
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:43:39 HTTP client 192.168.88.135 login succeeded
+2020-10-25 11:01:25 Date and time set at power up + 00:43:39
+2020-10-25 11:24:59 Leadscrew adjustments made: 0.032 0.021 0.036, points used 4, (mean, deviation) before (0.031, 0.026) after (0.000, 0.026)
+2020-10-25 11:26:00 Started printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-25 11:27:28 Leadscrew adjustments made: -0.010 -0.012 -0.028, points used 4, (mean, deviation) before (-0.019, 0.027) after (0.000, 0.026)
+2020-10-25 11:28:14 Leadscrew adjustments made: 0.019 0.002 0.001, points used 4, (mean, deviation) before (0.006, 0.031) after (0.000, 0.030)
+2020-10-25 11:48:10 Finished printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 22m
+2020-10-25 12:12:42 Started printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-25 12:14:15 Leadscrew adjustments made: 0.017 0.035 -0.003, points used 4, (mean, deviation) before (0.011, 0.026) after (0.000, 0.022)
+2020-10-25 12:14:57 Leadscrew adjustments made: 0.022 -0.000 -0.002, points used 4, (mean, deviation) before (0.005, 0.032) after (0.000, 0.030)
+2020-10-25 12:51:56 Finished printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 39m
+2020-10-25 12:59:06 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-10-25 12:59:24 Date and time set at power up + 00:00:16
+2020-10-25 12:59:57 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-10-25 13:00:15 Date and time set at power up + 00:00:16
+2020-10-25 13:01:37 Started printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-25 13:04:26 Leadscrew adjustments made: 0.012 0.010 0.002, points used 4, (mean, deviation) before (0.006, 0.028) after (-0.000, 0.027)
+2020-10-25 13:05:08 Leadscrew adjustments made: 0.018 0.001 -0.002, points used 4, (mean, deviation) before (0.004, 0.035) after (-0.000, 0.034)
+2020-10-25 13:42:06 Finished printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 40m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:21 HTTP client 192.168.88.135 login succeeded
+2020-10-26 10:25:16 Date and time set at power up + 00:00:21
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:33:42 HTTP client 192.168.88.135 login succeeded
+2020-10-27 10:40:39 Date and time set at power up + 00:33:42
+2020-10-27 10:46:30 Started simulating printing file 0:/gcodes/Calibration/Box_x2_70mm_0.2mm_PLA_RC.gcode
+2020-10-27 10:48:29 File 0:/gcodes/Calibration/Box_x2_70mm_0.2mm_PLA_RC.gcode will print in 0h 54m plus heating time
+2020-10-27 10:51:08 Leadscrew adjustments made: -0.103 -0.023 0.028, points used 4, (mean, deviation) before (-0.018, 0.048) after (-0.000, 0.017)
+2020-10-27 10:55:48 Started printing file 0:/gcodes/Calibration/Box_x2_70mm_0.2mm_PLA_RC.gcode
+2020-10-27 10:56:49 Leadscrew adjustments made: -0.007 -0.003 -0.027, points used 4, (mean, deviation) before (-0.016, 0.022) after (-0.000, 0.021)
+2020-10-27 10:57:31 Leadscrew adjustments made: 0.017 0.002 -0.005, points used 4, (mean, deviation) before (0.002, 0.026) after (0.000, 0.024)
+2020-10-27 11:53:33 Finished printing file 0:/gcodes/Calibration/Box_x2_70mm_0.2mm_PLA_RC.gcode, print time was 0h 57m
+2020-10-27 17:25:40 HTTP client 192.168.88.135 disconnected
+2020-10-27 17:29:53 Warning: VIN under-voltage event (9.4V)
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 05:15:43 HTTP client 192.168.88.135 login succeeded
+2020-10-28 13:22:56 Date and time set at power up + 05:15:43
+2020-10-28 13:27:08 Leadscrew adjustments made: -0.035 0.004 0.011, points used 4, (mean, deviation) before (-0.002, 0.031) after (-0.000, 0.025)
+2020-10-28 13:28:15 Started printing file 0:/gcodes/PrinterTools/Axle_B_0.2mm_PLA_RC.gcode
+2020-10-28 13:29:15 Leadscrew adjustments made: -0.009 -0.012 -0.014, points used 4, (mean, deviation) before (-0.012, 0.024) after (-0.000, 0.024)
+2020-10-28 13:29:58 Leadscrew adjustments made: 0.016 0.005 -0.004, points used 4, (mean, deviation) before (0.003, 0.030) after (-0.000, 0.029)
+2020-10-28 13:39:59 Finished printing file 0:/gcodes/PrinterTools/Axle_B_0.2mm_PLA_RC.gcode, print time was 0h 11m
+2020-10-28 13:57:28 Started printing file 0:/gcodes/PrinterTools/Axles_A_12x_B_Seq_0.2mm_PLA_RC.gcode
+2020-10-28 13:59:49 Leadscrew adjustments made: 0.015 0.018 -0.001, points used 4, (mean, deviation) before (0.008, 0.023) after (0.000, 0.023)
+2020-10-28 14:00:32 Leadscrew adjustments made: 0.030 0.008 -0.004, points used 4, (mean, deviation) before (0.008, 0.030) after (0.000, 0.027)
+2020-10-28 14:17:20 Finished printing file 0:/gcodes/PrinterTools/Axles_A_12x_B_Seq_0.2mm_PLA_RC.gcode, print time was 0h 19m
+2020-10-28 16:01:08 HTTP client 192.168.88.135 login succeeded
+2020-10-28 21:13:40 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 04:49:26 HTTP client 192.168.88.135 login succeeded
+2020-10-30 14:54:43 Date and time set at power up + 04:49:26
+2020-10-30 14:57:51 Leadscrew adjustments made: -0.032 0.069 0.056, points used 4, (mean, deviation) before (0.036, 0.044) after (-0.000, 0.009)
+2020-10-30 14:59:32 Started printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-10-30 15:00:32 Leadscrew adjustments made: 0.002 -0.007 0.001, points used 4, (mean, deviation) before (-0.000, 0.010) after (-0.000, 0.009)
+2020-10-30 15:01:14 Leadscrew adjustments made: 0.020 0.007 -0.004, points used 4, (mean, deviation) before (0.005, 0.016) after (0.000, 0.014)
+2020-10-30 15:37:05 HTTP client 192.168.88.135 disconnected
+2020-10-30 15:37:07 HTTP client 192.168.88.135 login succeeded
+2020-10-30 15:38:13 Finished printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 38m
+2020-10-30 18:37:40 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 02:42:50 HTTP client 192.168.88.135 login succeeded
+2020-10-31 14:18:41 Error: M591: missing parameter 'D'
+2020-10-31 14:55:42 Started printing file 0:/gcodes/Calibration/ColdExtrusionTest.g
+2020-10-31 14:56:32 Finished printing file 0:/gcodes/Calibration/ColdExtrusionTest.g, print time was 0h 0m
+2020-10-31 14:57:55 Started printing file 0:/gcodes/Calibration/ColdExtrusionTest.g
+2020-10-31 14:58:45 Finished printing file 0:/gcodes/Calibration/ColdExtrusionTest.g, print time was 0h 0m
+2020-10-31 15:03:07 Started printing file 0:/gcodes/Calibration/ColdExtrusionTest.g
+2020-10-31 15:03:57 Finished printing file 0:/gcodes/Calibration/ColdExtrusionTest.g, print time was 0h 0m
+2020-10-31 15:06:45 Started printing file 0:/gcodes/Calibration/ColdExtrusionTest.g
+2020-10-31 15:07:35 Finished printing file 0:/gcodes/Calibration/ColdExtrusionTest.g, print time was 0h 0m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:34 HTTP client 192.168.88.135 login succeeded
+2020-10-31 17:52:46 Started printing file 0:/gcodes/Calibration/ColdExtrusionTest.g
+2020-10-31 17:53:36 Finished printing file 0:/gcodes/Calibration/ColdExtrusionTest.g, print time was 0h 0m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:02:25 HTTP client 192.168.88.135 login succeeded
+2020-11-01 10:05:29 Date and time set at power up + 00:02:25
+2020-11-01 11:41:43 HTTP client 192.168.88.135 disconnected
+2020-11-01 11:49:26 HTTP client 192.168.88.135 login succeeded
+2020-11-01 11:49:54 Started printing file 0:/gcodes/Calibration/ColdExtTest_2.g
+2020-11-01 11:54:14 Finished printing file 0:/gcodes/Calibration/ColdExtTest_2.g, print time was 0h 4m
+2020-11-01 12:55:48 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-11-01 12:56:06 Date and time set at power up + 00:00:16
+2020-11-01 13:15:02 Started printing file 0:/gcodes/Calibration/Thumb_Screw_HexM3x16_0.2mm_PLA_RC.gcode
+2020-11-01 13:17:19 Leadscrew adjustments made: -0.014 -0.030 0.032, points used 4, (mean, deviation) before (0.005, 0.024) after (0.000, 0.014)
+2020-11-01 13:18:01 Leadscrew adjustments made: 0.008 0.002 -0.004, points used 4, (mean, deviation) before (0.001, 0.017) after (-0.000, 0.017)
+2020-11-01 13:54:29 Finished printing file 0:/gcodes/Calibration/Thumb_Screw_HexM3x16_0.2mm_PLA_RC.gcode, print time was 0h 39m
+2020-11-01 15:41:26 HTTP client 192.168.88.135 disconnected
+2020-11-01 16:22:49 HTTP client 192.168.88.135 login succeeded
+2020-11-01 16:23:59 HTTP client 192.168.88.135 disconnected
+2020-11-01 16:37:53 HTTP client 192.168.88.135 login succeeded
+2020-11-01 16:48:50 Started printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PLA_RRC.gcode
+2020-11-01 16:52:40 Leadscrew adjustments made: 0.011 0.054 0.014, points used 4, (mean, deviation) before (0.023, 0.021) after (0.000, 0.009)
+2020-11-01 16:53:22 Leadscrew adjustments made: 0.020 0.006 0.001, points used 4, (mean, deviation) before (0.007, 0.016) after (0.000, 0.014)
+2020-11-01 17:23:59 Resume state saved
+2020-11-01 17:24:03 Printing paused for filament change at X77.0 Y76.9 Z21.4
+2020-11-01 17:24:48 Printing resumed
+2020-11-01 17:33:59 Finished printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PLA_RRC.gcode, print time was 0h 44m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-11-02 14:41:12 Date and time set at power up + 00:00:16
+2020-11-02 14:50:03 Started printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PLA_RRC.gcode
+2020-11-02 14:53:58 Leadscrew adjustments made: -0.027 -0.007 0.027, points used 4, (mean, deviation) before (0.005, 0.020) after (0.000, 0.010)
+2020-11-02 14:54:41 Leadscrew adjustments made: 0.019 0.010 -0.004, points used 4, (mean, deviation) before (0.005, 0.014) after (0.000, 0.012)
+2020-11-02 15:25:19 Resume state saved
+2020-11-02 15:25:23 Printing paused for filament change at X77.0 Y76.9 Z21.4
+2020-11-02 15:26:23 Printing resumed
+2020-11-02 15:35:34 Finished printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PLA_RRC.gcode, print time was 0h 44m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:17:47 HTTP client 192.168.88.135 login succeeded
+2020-11-03 07:54:13 Date and time set at power up + 00:17:47
+2020-11-03 10:08:44 Started printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PETG_RC.gcode
+2020-11-03 10:13:37 Leadscrew adjustments made: 0.025 0.010 0.015, points used 4, (mean, deviation) before (0.017, 0.012) after (0.000, 0.010)
+2020-11-03 10:14:20 Leadscrew adjustments made: 0.016 0.008 -0.003, points used 4, (mean, deviation) before (0.005, 0.015) after (0.000, 0.014)
+2020-11-03 10:16:54 Resume state saved
+2020-11-03 10:16:58 Printing paused at X38.0 Y54.7 Z0.2
+2020-11-03 10:17:00 Cancelled printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PETG_RC.gcode, print time was 0h 8m
+2020-11-03 10:28:45 Started printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PETG_RC.gcode
+2020-11-03 10:30:54 Leadscrew adjustments made: 0.000 -0.017 -0.010, points used 4, (mean, deviation) before (-0.009, 0.015) after (-0.000, 0.013)
+2020-11-03 10:31:37 Leadscrew adjustments made: 0.018 0.006 -0.002, points used 4, (mean, deviation) before (0.005, 0.017) after (0.000, 0.015)
+2020-11-03 11:01:49 Resume state saved
+2020-11-03 11:01:53 Printing paused for filament change at X44.6 Y49.9 Z21.2
+2020-11-03 11:03:26 Printing resumed
+2020-11-03 11:14:03 Finished printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_HexM3x16_0.2mm_PETG_RC.gcode, print time was 0h 43m
+2020-11-03 15:09:53 Started printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_x3_HexM3x16_0.2mm_PETG_RC.gcode
+2020-11-03 15:14:53 Leadscrew adjustments made: -0.032 0.014 0.011, points used 4, (mean, deviation) before (0.001, 0.021) after (-0.000, 0.007)
+2020-11-03 15:15:35 Leadscrew adjustments made: 0.020 0.002 0.002, points used 4, (mean, deviation) before (0.007, 0.015) after (0.000, 0.013)
+2020-11-03 16:22:53 Resume state saved
+2020-11-03 16:22:58 Printing paused for filament change at X191.1 Y40.5 Z21.2
+2020-11-03 16:25:33 Printing resumed
+2020-11-03 16:41:46 Finished printing file 0:/gcodes/Calibration/Thumb_Screw_Pause_x3_HexM3x16_0.2mm_PETG_RC.gcode, print time was 1h 29m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:30 HTTP client 192.168.88.159 login succeeded
+2020-11-04 08:33:20 Date and time set at power up + 00:00:30
+2020-11-04 08:54:47 HTTP client 192.168.88.159 disconnected
+2020-11-04 14:40:39 HTTP client 192.168.88.135 login succeeded
+2020-11-04 14:40:42 HTTP client 192.168.88.135 login succeeded
+2020-11-04 14:45:28 Started printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-11-04 14:47:18 Leadscrew adjustments made: 0.025 -0.020 0.019, points used 4, (mean, deviation) before (0.011, 0.023) after (0.000, 0.013)
+2020-11-04 14:48:01 Leadscrew adjustments made: 0.018 0.005 -0.003, points used 4, (mean, deviation) before (0.005, 0.015) after (-0.000, 0.014)
+2020-11-04 15:13:35 HTTP client 192.168.88.135 disconnected
+2020-11-04 15:13:38 HTTP client 192.168.88.135 disconnected
+2020-11-04 15:14:04 HTTP client 192.168.88.135 login succeeded
+2020-11-04 15:18:05 HTTP client 192.168.88.135 disconnected
+2020-11-04 15:25:01 Finished printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 39m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:42 HTTP client 192.168.88.159 login succeeded
+2020-11-05 20:24:21 Date and time set at power up + 00:00:42
+2020-11-05 20:30:21 HTTP client 192.168.88.159 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 02:10:41 HTTP client 192.168.88.159 login succeeded
+2020-11-07 12:47:29 Date and time set at power up + 02:10:41
+2020-11-07 12:54:59 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.159 login succeeded
+2020-11-07 12:55:17 Date and time set at power up + 00:00:16
+2020-11-07 12:58:39 Error: Cannot read file, error code 2
+2020-11-07 12:59:02 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.159 login succeeded
+2020-11-07 12:59:20 Date and time set at power up + 00:00:16
+2020-11-07 13:00:46 Started printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-11-07 13:04:37 Leadscrew adjustments made: -0.025 0.042 0.017, points used 4, (mean, deviation) before (0.012, 0.028) after (-0.000, 0.008)
+2020-11-07 13:05:19 Leadscrew adjustments made: 0.018 0.001 -0.002, points used 4, (mean, deviation) before (0.004, 0.014) after (0.000, 0.012)
+2020-11-07 13:25:16 Finished printing file 0:/gcodes/Calibration/Cylinder_33mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 24m
+2020-11-07 17:09:01 Started printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode
+2020-11-07 17:12:50 Leadscrew adjustments made: 0.012 0.031 0.030, points used 4, (mean, deviation) before (0.026, 0.011) after (0.000, 0.008)
+2020-11-07 17:13:32 Leadscrew adjustments made: 0.020 0.002 -0.001, points used 4, (mean, deviation) before (0.006, 0.015) after (-0.000, 0.012)
+2020-11-07 17:50:33 Finished printing file 0:/gcodes/Calibration/Cylinder_60mm_NoRetract_0.2mm_PLA_RC.gcode, print time was 0h 41m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 01:01:56 HTTP client 192.168.88.135 login succeeded
+2020-11-20 10:34:27 Date and time set at power up + 01:01:56
+2020-11-20 10:38:34 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 04:31:09 HTTP client 192.168.88.135 login succeeded
+2020-11-24 14:04:05 Date and time set at power up + 04:31:09
+2020-11-24 14:08:02 Leadscrew adjustments made: 0.024 0.002 0.023, points used 4, (mean, deviation) before (0.018, 0.012) after (0.000, 0.008)
+2020-11-24 14:08:50 Started printing file 0:/gcodes/PrinterTools/RepPanel_Lid_fixed_0.2mm_PLA_RC.gcode
+2020-11-24 14:09:50 Leadscrew adjustments made: 0.014 0.005 0.003, points used 4, (mean, deviation) before (0.006, 0.008) after (0.000, 0.007)
+2020-11-24 14:10:32 Leadscrew adjustments made: 0.016 0.000 -0.003, points used 4, (mean, deviation) before (0.003, 0.014) after (0.000, 0.013)
+2020-11-24 14:15:28 Resume state saved
+2020-11-24 14:15:34 Printing paused at X158.2 Y54.0 Z0.2
+2020-11-24 14:15:35 Cancelled printing file 0:/gcodes/PrinterTools/RepPanel_Lid_fixed_0.2mm_PLA_RC.gcode, print time was 0h 6m
+2020-11-24 14:20:59 Started printing file 0:/gcodes/PrinterTools/RepPanel_Lid_fixed_0.2mm_PLA_RC.gcode
+2020-11-24 14:22:05 Leadscrew adjustments made: 0.011 0.005 0.004, points used 4, (mean, deviation) before (0.006, 0.011) after (0.000, 0.010)
+2020-11-24 14:22:47 Leadscrew adjustments made: 0.021 0.009 -0.006, points used 4, (mean, deviation) before (0.005, 0.017) after (0.000, 0.014)
+2020-11-24 16:01:55 Finished printing file 0:/gcodes/PrinterTools/RepPanel_Lid_fixed_0.2mm_PLA_RC.gcode, print time was 1h 40m
+2020-11-24 17:56:44 Started printing file 0:/gcodes/PrinterTools/RepPanel_Box_fixed_0.2mm_PLA_RC.gcode
+2020-11-24 18:00:24 Leadscrew adjustments made: -0.034 0.022 0.024, points used 4, (mean, deviation) before (0.009, 0.027) after (-0.000, 0.009)
+2020-11-24 18:01:06 Leadscrew adjustments made: 0.016 -0.000 0.001, points used 4, (mean, deviation) before (0.005, 0.015) after (0.000, 0.013)
+2020-11-24 20:56:05 Finished printing file 0:/gcodes/PrinterTools/RepPanel_Box_fixed_0.2mm_PLA_RC.gcode, print time was 2h 59m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 07:05:20 Network running, IP address = 192.168.88.113
+power up + 07:05:39 Network running, IP address = 192.168.88.113
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 05:33:41 HTTP client 192.168.88.135 login succeeded
+2020-11-26 14:39:41 Date and time set at power up + 05:33:41
+2020-11-26 15:33:43 HTTP client 192.168.88.135 login succeeded
+2020-11-26 16:18:34 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:15 HTTP client 192.168.88.135 login succeeded
+2020-11-26 16:18:51 Date and time set at power up + 00:00:15
+2020-11-26 16:27:18 Leadscrew adjustments made: 0.050 0.021 0.033, points used 4, (mean, deviation) before (0.034, 0.014) after (0.000, 0.008)
+2020-11-26 16:29:14 Started simulating printing file 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-11-26 16:29:28 File 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode will print in 0h 12m plus heating time
+2020-11-26 16:29:54 HTTP client 192.168.88.135 disconnected
+2020-11-26 16:29:56 HTTP client 192.168.88.135 login succeeded
+2020-11-26 16:30:07 Started printing file 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-11-26 16:31:11 Leadscrew adjustments made: 0.004 -0.004 -0.002, points used 4, (mean, deviation) before (-0.001, 0.008) after (-0.000, 0.007)
+2020-11-26 16:31:53 Leadscrew adjustments made: 0.019 0.005 -0.007, points used 4, (mean, deviation) before (0.003, 0.015) after (0.000, 0.012)
+2020-11-26 16:45:51 Finished printing file 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 15m
+2020-11-26 17:01:55 Started printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-11-26 17:04:45 Leadscrew adjustments made: 0.022 0.020 0.016, points used 4, (mean, deviation) before (0.018, 0.011) after (0.000, 0.011)
+2020-11-26 17:05:27 Leadscrew adjustments made: 0.013 0.003 -0.002, points used 4, (mean, deviation) before (0.003, 0.015) after (0.000, 0.014)
+2020-11-26 17:25:27 Finished printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode, print time was 0h 23m
+2020-11-26 22:12:16 Warning: VIN under-voltage event (9.5V)
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 02:27:29 HTTP client 192.168.88.135 login succeeded
+2020-11-27 17:18:01 Date and time set at power up + 02:27:29
+2020-11-27 17:28:35 Leadscrew adjustments made: -0.042 0.020 0.042, points used 4, (mean, deviation) before (0.015, 0.032) after (0.000, 0.009)
+2020-11-27 17:33:13 Started printing file 0:/gcodes/Calibration/3DBenchy_Plus_0.2mm_PLA_RC.gcode
+2020-11-27 17:34:14 Leadscrew adjustments made: 0.022 0.015 0.010, points used 4, (mean, deviation) before (0.014, 0.009) after (0.000, 0.007)
+2020-11-27 17:34:56 Leadscrew adjustments made: 0.019 0.008 -0.002, points used 4, (mean, deviation) before (0.006, 0.016) after (0.000, 0.014)
+2020-11-27 19:03:45 Finished printing file 0:/gcodes/Calibration/3DBenchy_Plus_0.2mm_PLA_RC.gcode, print time was 1h 30m
+2020-11-27 22:13:28 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:24:38 HTTP client 192.168.88.135 login succeeded
+2020-11-28 17:01:50 Date and time set at power up + 00:24:38
+2020-11-28 17:11:31 Started printing file 0:/gcodes/PrinterTools/Axle_A_0.2mm_PLA_RC.gcode
+2020-11-28 17:14:08 HTTP client 192.168.88.135 login succeeded
+2020-11-28 17:15:40 Leadscrew adjustments made: -0.035 -0.017 0.017, points used 4, (mean, deviation) before (-0.004, 0.020) after (0.000, 0.012)
+2020-11-28 17:16:22 Leadscrew adjustments made: 0.015 0.006 0.004, points used 4, (mean, deviation) before (0.008, 0.016) after (0.000, 0.016)
+2020-11-28 17:26:38 Finished printing file 0:/gcodes/PrinterTools/Axle_A_0.2mm_PLA_RC.gcode, print time was 0h 15m
+2020-11-28 18:13:05 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:09:03 HTTP client 192.168.88.135 login succeeded
+2020-11-29 14:41:32 Date and time set at power up + 00:09:03
+2020-11-29 14:45:09 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:15 HTTP client 192.168.88.135 login succeeded
+2020-11-29 14:45:27 Date and time set at power up + 00:00:15
+2020-11-29 15:01:03 Started printing file 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-11-29 15:04:43 Leadscrew adjustments made: -0.010 0.013 -0.006, points used 4, (mean, deviation) before (-0.002, 0.011) after (-0.000, 0.006)
+2020-11-29 15:05:25 Leadscrew adjustments made: 0.014 0.007 0.002, points used 4, (mean, deviation) before (0.007, 0.011) after (-0.000, 0.011)
+2020-11-29 15:19:28 Finished printing file 0:/gcodes/Calibration/Shape-Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 18m
+2020-11-29 15:58:39 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-11-29 15:58:56 Date and time set at power up + 00:00:16
+2020-11-29 16:03:57 Started simulating printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-11-29 16:05:16 File 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode will print in 0h 18m plus heating time
+2020-11-29 16:06:35 Started printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-11-29 16:10:01 Leadscrew adjustments made: 0.035 0.041 0.014, points used 4, (mean, deviation) before (0.026, 0.012) after (0.000, 0.008)
+2020-11-29 16:10:43 Leadscrew adjustments made: 0.020 0.005 -0.002, points used 4, (mean, deviation) before (0.005, 0.015) after (0.000, 0.012)
+2020-11-29 16:30:49 Finished printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode, print time was 0h 24m
+2020-11-29 17:05:43 Started printing file 0:/gcodes/Calibration/ctrlv_3D_test_v3_x2_0.2mm_PLA_RC.gcode
+2020-11-29 17:08:51 Leadscrew adjustments made: 0.019 0.036 0.033, points used 4, (mean, deviation) before (0.030, 0.012) after (0.000, 0.010)
+2020-11-29 17:09:33 Leadscrew adjustments made: 0.014 0.002 -0.002, points used 4, (mean, deviation) before (0.003, 0.016) after (0.000, 0.015)
+2020-11-29 19:01:44 Finished printing file 0:/gcodes/Calibration/ctrlv_3D_test_v3_x2_0.2mm_PLA_RC.gcode, print time was 1h 56m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:30 HTTP client 192.168.88.135 login succeeded
+2020-11-30 10:49:11 Date and time set at power up + 00:00:30
+2020-11-30 18:19:31 Started printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-11-30 18:22:53 Leadscrew adjustments made: -0.042 -0.016 0.020, points used 4, (mean, deviation) before (-0.005, 0.023) after (-0.000, 0.011)
+2020-11-30 18:23:35 Leadscrew adjustments made: 0.002 0.003 0.004, points used 4, (mean, deviation) before (0.003, 0.011) after (0.000, 0.011)
+2020-11-30 18:30:37 Resume state saved
+2020-11-30 18:30:37 Extruder 0 reports too little movement
+2020-11-30 18:30:43 Printing paused at X199.1 Y39.5 Z0.6
+2020-11-30 18:34:00 Printing resumed
+2020-11-30 18:37:27 Resume state saved
+2020-11-30 18:37:27 Extruder 0 reports too little movement
+2020-11-30 18:37:34 Printing paused at X274.4 Y30.9 Z1.4
+2020-11-30 18:43:06 Printing resumed
+2020-11-30 18:43:53 Resume state saved
+2020-11-30 18:43:53 Extruder 0 reports too little movement
+2020-11-30 18:43:59 Printing paused at X204.0 Y39.4 Z1.6
+2020-11-30 18:44:59 Printing resumed
+2020-11-30 18:46:29 Resume state saved
+2020-11-30 18:46:29 Extruder 0 reports too little movement
+2020-11-30 18:46:34 Printing paused at X112.1 Y35.6 Z1.8
+2020-11-30 18:48:06 Printing resumed
+2020-11-30 18:48:26 Resume state saved
+2020-11-30 18:48:26 Extruder 0 reports too little movement
+2020-11-30 18:48:34 Printing paused at X273.8 Y29.9 Z2.0
+2020-11-30 18:49:36 Printing resumed
+2020-11-30 18:54:56 Resume state saved
+2020-11-30 18:54:56 Extruder 0 reports too little movement
+2020-11-30 18:55:02 Printing paused at X262.5 Y47.4 Z4.0
+2020-11-30 18:56:03 Printing resumed
+2020-11-30 18:57:39 Finished printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode, print time was 0h 24m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:19 HTTP client 192.168.88.135 login succeeded
+2020-12-01 10:23:21 Date and time set at power up + 00:00:19
+2020-12-01 13:39:55 Leadscrew adjustments made: 0.033 0.069 0.044, points used 4, (mean, deviation) before (0.047, 0.016) after (-0.000, 0.006)
+2020-12-01 13:42:20 Started printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode
+2020-12-01 13:44:21 Leadscrew adjustments made: 0.012 -0.000 0.006, points used 4, (mean, deviation) before (0.006, 0.010) after (0.000, 0.009)
+2020-12-01 13:45:03 Leadscrew adjustments made: 0.020 0.004 -0.004, points used 4, (mean, deviation) before (0.004, 0.015) after (-0.000, 0.012)
+2020-12-01 14:05:08 Finished printing file 0:/gcodes/Calibration/LollyPop_x3_0.2mm_PLA_RC.gcode, print time was 0h 22m
+2020-12-01 14:49:52 HTTP client 192.168.88.135 login succeeded
+2020-12-01 14:50:00 Network running, IP address = 192.168.88.113
+2020-12-01 14:50:19 Network running, IP address = 192.168.88.113
+2020-12-01 14:50:29 HTTP client 192.168.88.135 login succeeded
+2020-12-01 15:36:24 HTTP client 192.168.88.135 disconnected
+2020-12-01 15:36:32 HTTP client 192.168.88.135 login succeeded
+2020-12-01 15:36:48 Started printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-12-01 15:39:46 Error: Z probe readings not consistent
+2020-12-01 15:40:25 Leadscrew adjustments made: 0.017 0.045 0.032, points used 4, (mean, deviation) before (0.031, 0.013) after (0.000, 0.006)
+2020-12-01 15:41:07 Leadscrew adjustments made: 0.016 0.005 0.003, points used 4, (mean, deviation) before (0.007, 0.013) after (-0.000, 0.012)
+2020-12-01 15:55:05 Finished printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 18m
+2020-12-01 16:17:16 Started printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-12-01 16:20:21 Leadscrew adjustments made: 0.027 0.003 0.012, points used 4, (mean, deviation) before (0.013, 0.014) after (-0.000, 0.010)
+2020-12-01 16:21:03 Leadscrew adjustments made: 0.017 0.007 -0.002, points used 4, (mean, deviation) before (0.005, 0.015) after (0.000, 0.014)
+2020-12-01 16:35:00 Finished printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 17m
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-12-02 13:36:40 Date and time set at power up + 00:00:16
+2020-12-02 18:20:54 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 02:29:03 HTTP client 192.168.88.135 login succeeded
+2020-12-03 12:53:48 Date and time set at power up + 02:29:03
+2020-12-03 13:00:29 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 attempted login with incorrect password
+power up + 00:00:26 HTTP client 192.168.88.135 login succeeded
+2020-12-03 13:00:56 Date and time set at power up + 00:00:26
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:25 HTTP client 192.168.88.135 login succeeded
+2020-12-03 16:07:07 Date and time set at power up + 00:00:25
+2020-12-03 17:00:56 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:04:30 HTTP client 192.168.88.135 attempted login with incorrect password
+power up + 00:04:35 HTTP client 192.168.88.135 login succeeded
+2020-12-04 09:57:38 Date and time set at power up + 00:04:35
+2020-12-04 10:25:54 HTTP client 192.168.88.178 login succeeded
+2020-12-04 10:38:19 Power off commanded
+2020-12-04 10:39:59 Leadscrew adjustments made: -0.025 0.028 0.030, points used 4, (mean, deviation) before (0.015, 0.028) after (-0.000, 0.015)
+2020-12-04 10:44:32 HTTP client 192.168.88.178 login succeeded
+2020-12-04 11:21:38 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-12-04 11:21:57 Date and time set at power up + 00:00:16
+2020-12-04 11:22:21 HTTP client 192.168.88.178 login succeeded
+2020-12-04 13:03:26 HTTP client 192.168.88.135 login succeeded
+2020-12-04 13:35:08 HTTP client 192.168.88.135 login succeeded
+2020-12-04 14:17:13 HTTP client 192.168.88.135 disconnected
+2020-12-04 15:03:37 HTTP client 192.168.88.178 login succeeded
+2020-12-04 15:09:32 HTTP client 192.168.88.178 login succeeded
+2020-12-04 15:11:26 Started printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-12-04 15:14:47 Leadscrew adjustments made: 0.072 0.030 0.047, points used 4, (mean, deviation) before (0.049, 0.019) after (0.000, 0.008)
+2020-12-04 15:15:29 Leadscrew adjustments made: 0.020 0.006 -0.002, points used 4, (mean, deviation) before (0.005, 0.014) after (0.000, 0.012)
+2020-12-04 15:29:26 Finished printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 18m
+2020-12-04 15:38:21 HTTP client 192.168.88.135 attempted login with incorrect password
+2020-12-04 15:38:32 HTTP client 192.168.88.135 login succeeded
+2020-12-04 15:38:55 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-12-04 15:39:10 Date and time set at power up + 00:00:16
+2020-12-04 15:45:46 HTTP client 192.168.88.135 disconnected
+2020-12-04 15:45:54 HTTP client 192.168.88.135 login succeeded
+2020-12-04 15:49:10 Started printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode
+2020-12-04 15:52:08 Leadscrew adjustments made: 0.024 0.014 0.024, points used 4, (mean, deviation) before (0.022, 0.009) after (0.000, 0.008)
+2020-12-04 15:52:51 Leadscrew adjustments made: 0.014 -0.001 -0.001, points used 4, (mean, deviation) before (0.003, 0.015) after (0.000, 0.014)
+2020-12-04 16:06:47 Finished printing file 0:/gcodes/Calibration/Sphere_0.2-0.12mm_PLA_RC.gcode, print time was 0h 17m
+2020-12-04 17:30:20 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:39:59 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:26 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:28 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:35 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:40 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:42 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:43 HTTP client 192.168.88.135 login succeeded
+2020-12-04 17:43:44 HTTP client 192.168.88.135 disconnected
+power up + 00:00:01 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 01:00:12 HTTP client 192.168.88.135 login succeeded
+2020-12-08 10:24:21 Date and time set at power up + 01:00:12
+2020-12-08 10:36:53 Event logging stopped
+power up + 00:00:00 Event logging started
+power up + 00:00:01 Warning: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 283C
+power up + 00:00:15 Network running, IP address = 192.168.88.113
+power up + 00:00:16 HTTP client 192.168.88.135 login succeeded
+2020-12-08 10:37:11 Date and time set at power up + 00:00:16
+2020-12-08 10:41:03 HTTP client 192.168.88.135 disconnected
+2020-12-08 10:43:59 HTTP client 192.168.88.135 login succeeded
+2020-12-08 12:56:58 HTTP client 192.168.88.135 disconnected
+2020-12-08 17:31:20 HTTP client 192.168.88.135 login succeeded
