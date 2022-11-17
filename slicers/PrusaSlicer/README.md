@@ -15,6 +15,13 @@ I recommend using the `Expert` setting, which is available in the upper-right co
 
 - There is a conditional in the filament config that adds a Pressure Advance statement `M572 D0 S0.07` to the GCODE if the configuration is used on a RAILCORE as seen by the printer definition.
 
+# Notes for PrusaSlicer configuration updated November 16, 2022
+
+* Generated with PrusaSlicer v2.5.0
+* Included Updated Support settings
+* Updated Start GCODE that sends configuration varibles to Klipper firmware
+* Minor tweaks to speed and cooling settings in some profiles
+
 # Notes for PrusaSlicer configuration updated June 5, 2021
 
 * Generated with PrusaSlicer v2.3.1+
