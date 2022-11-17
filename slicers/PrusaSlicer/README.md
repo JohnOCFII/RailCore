@@ -19,7 +19,7 @@ I recommend using the `Expert` setting, which is available in the upper-right co
 
 * Generated with PrusaSlicer v2.5.0
 * Included Updated Support settings
-* Updated Start GCODE that sends configuration varibles to Klipper firmware
+* Updated Start GCODE that sends configuration variables to Klipper firmware
 * Minor tweaks to speed and cooling settings in some profiles
 
 # Notes for PrusaSlicer configuration updated June 5, 2021
