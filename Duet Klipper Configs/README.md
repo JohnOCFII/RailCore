@@ -1,6 +1,6 @@
-# RailCore 300ZL DuetEthernet Klipper configuration files
+# RailCore 300ZL Duet2 Ethernet Klipper configuration files
 
-*This directory tree contains the key DuetEthernet configuration files for Klipper firmware*
+*This directory tree contains the key Duet2 Ethernet configuration files for Klipper firmware*
 
 **Update Notes - December 26 2021**
 - Lowered stepper motor current
