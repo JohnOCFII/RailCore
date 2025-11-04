@@ -2,6 +2,14 @@
 
 *This directory tree contains the key Duet2 Ethernet configuration files for Klipper firmware*
 
+**Update Notes - September 22 2025**
+- Modified for Orbiter 2.0/2.5 extrduer and E3D-Revo hotend
+- Added LED light control for lights in topper
+- Added control for Bento Box filter fan
+- Added chamber thermistor
+
+
+
 **Update Notes - June 22 2022**
 - Added “Exclude Object” section (to allow for failed print items to be excluded — details outside the stop of my config)
 - Changed name of bed and Keenevo heater thermistor type from NTC 100K beta 3950 to Generic 3950
